@@ -1,0 +1,14 @@
+{
+    ".url": {
+        "badblocks-victoria.Application": {
+            "title": "坏道检测修复",
+            "icon": "images/icon_{0}.png",
+            "type": "iframe",
+            "protocol": "",
+            "gatewayPrefix": "/app/badblocks-victoria",
+            "gatewaySocket": "app.sock",
+            "url": "/app/badblocks-victoria",
+            "allUsers": true
+        }
+    }
+}

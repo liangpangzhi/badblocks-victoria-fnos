@@ -1,0 +1,10 @@
+appname               = badblocks-victoria
+version               = 0.3.4
+display_name          = 坏道检测修复
+desc                  = 飞牛硬盘坏道检测与非破坏性修复（remap / scrub / recheck）
+arch                  = x86_64
+source                = thirdparty
+maintainer            = local
+distributor           = local
+desktop_uidir         = ui
+desktop_applaunchname = badblocks-victoria.Application
